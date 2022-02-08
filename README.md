@@ -1,10 +1,9 @@
 
 
-# Boas vindas ao repositório do projeto Loto!
-Trata-se de um simulador de jogos da lotofácil e megasena, com a opção de checagem dos históricos de sorteios ou último sorteio. 
+# Boas vindas ao repositório do projeto Cronometer!
+Trata-se de um cronômetro com design amigável para controle de intervalos, tempos de estudos, etc;
 
 # Funcionalidades
-  - É possível escolher qual tipo de loteria quer simular, lotofácil ou megasema.
-  - Os números são escolhidos através de uma cartela que simula as cartelas reais, para escolher os números basta clicá-los.
-  - É possível verificar a performance histórica nos sorteios anteriores ao verificar a quantidade de acertos da loteria simulada.
-  - Aplicativo utiliza Context e Hooks para gerenciamento de estado. 
+  - É possível escolher o tempo exato do cronômeto, com horas, minutos e segundos.
+  Há a possibilidade de ouvir o som das ondas do mar através do click de um botão para ativá-lo e desativá-lo.
+  
